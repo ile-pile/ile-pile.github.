@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Size Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>Your one-stop solution for amazing content.</p>
+    </header>
+    <section id="content">
+        <h2>About Us</h2>
+        <p>We are committed to providing the best service possible. Our team is dedicated to making sure you have a wonderful experience.</p>
+        <p>Contact us for more information.</p>
+    </section>
+</body>
+</html>
